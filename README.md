@@ -6,6 +6,8 @@
   and Phoenix, so some parts may be done better
 * this is just Development stage docker composer version. Not production
   ready. It's more a guide to first steps with docker-phoenix.
+* for prod I'm recommendig to check this article https://semaphoreci.com/community/tutorials/dockerizing-elixir-and-phoenix-applications (there are some differences like running stuff under `MIX_ENV=prod mix ...` and they compile docker `FROM ubuntu
+` I rather recomend to stick with `FROM elixir`)
 
 ### Requirements:
 
