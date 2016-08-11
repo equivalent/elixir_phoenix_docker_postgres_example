@@ -1,7 +1,7 @@
 # Elixir Phoenix Docker Composer Postgresql example
 
-* Dummy app, it was doing it just as a proof of concept for Elixir
-  beeing microservice (this is just simple web version without API endoint)
+* Dummy app, I was creating it just as a proof of concept of Elixir
+  as a microservice (this is just simple web only version without any API endoint)
 * Although I'm fairly experienced with Docker I'm still learning Elixir
   and Phoenix, so some parts may be done better
 * this is just Development stage docker composer version. Not production
