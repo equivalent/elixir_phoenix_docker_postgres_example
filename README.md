@@ -1,5 +1,7 @@
 # Elixir Phoenix Docker Composer Postgresql example
 
+[![Open Thanks](https://thawing-falls-79026.herokuapp.com/images/thanks-1.svg)](https://thawing-falls-79026.herokuapp.com/r/qaihytrz)
+
 * Dummy app, I was creating it just as a proof of concept of Elixir
   as a microservice (this is just simple web only version without any API endoint)
 * Although I'm fairly experienced with Docker I'm still learning Elixir
